@@ -16,7 +16,7 @@ The dashboard is structured around several key performance indicators (KPIs) to 
 | **Age vs Gender** | Demographic Sales | How different age groups and genders contribute to sales. |
 | **Order Status** | Fulfillment Rate | Efficiency in order processing (Delivered, Refunded, Cancelled, Returned). |
 
-## 📦 Data Segmentation
+## 📦 Data Segmentation 
 
 The analysis in the dashboard is primarily segmented across the following dimensions:
 
