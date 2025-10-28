@@ -41,3 +41,12 @@ The analysis in the dashboard is primarily segmented across the following dimens
 3.  **Navigate to the 'DASHBOARD' Tab:** The primary dashboard is located on this sheet.
 
 Feel free to explore the underlying data sheets (`4 top 5 states`, `5 age vs gender`, `6 MAX_SALES`) to understand the raw data structure.
+---
+
+## 📬 Contact
+**Author:** Shaik Asad  
+**Role:** Data Analyst / Business Analyst  
+**Email:** shaikasad2567@gmail.com  
+**LinkedIn:** *https://www.linkedin.com/in/shaik-asad-82999a227/*  
+
+---
