@@ -23,7 +23,7 @@ The analysis in the dashboard is primarily segmented across the following dimens
 * **Category:** Blouse, Bottom, Ethnic Dress, Kurta, Saree
 * **Channel:** Ajio, Amazon, Flipkart, Myntra, Meesho, Tata Cliq, etc.
 * **Time:** Monthly (Jan - Dec)
-
+    
 ## ✨ Features
 
 * **Visual Data Storytelling:** Utilizes various chart types (Bar, Line, Pie, Donut) for clear, quick interpretation.
