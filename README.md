@@ -1,6 +1,6 @@
 # Excel_Data_Analysis
 # Store Data Analysis Report Dashboard (Excel)
-
+   
 This repository contains the source file for a comprehensive **Store Data Analysis Report Dashboard**, created using **Microsoft Excel**. The dashboard provides a dynamic and visual representation of key retail data, offering actionable insights into sales performance, customer demographics, and order fulfillment efficiency.
 
 ## 📊 Dashboard Overview
